@@ -6,7 +6,7 @@ main:
     conference: Conference/Journal <strong>(Journal/Conference)</strong>, Year.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://marcushoskins.github.io/template/template
-    bibtex: https://marcushoskins.github.io/template/template
+    page: https://marcushoskins.github.io/projects/template/template
+    bibtex: https://marcushoskins.github.io/projects/template/template
     notes: Notes
     image: ./assets/img/teaser_example.png
